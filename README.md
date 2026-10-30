@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 # 🚀 Hello Coders, I'm Marten Emil! 💻
-### Python Developer & Problem Solver 🐍
+### Python Developer & Problem Solver 🐍 
 
 <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
