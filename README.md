@@ -49,10 +49,7 @@ class MartenProfile:
     ]
 
     projects = [
-        "Invoice System",
-        "Hotel Management System",
-        "Gold Calculator",
-        "Gold Shop Inventory System"
+        "Hotel Management System"
     ]
 
     motto = "Learn by building. Improve by solving."
